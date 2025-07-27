@@ -1,0 +1,9 @@
+jdk-17/
+jdk-17.zip
+apache-maven-3.9.9-bin/
+apache-maven-3.9.9-bin.zip
+kafka_2.13-3.8.0/
+kafka_2.13-3.8.0.tgz
+target/
+*.class
+*.jar
